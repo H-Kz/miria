@@ -3,7 +3,7 @@ Slack版みりあBot
 
 ## About
 
-@nissy氏制作「[みりあやんないよBot for LINE](https://github.com/sfc-icar/miria_line)」を参考に製作したSlackbotです。コードに関してはゼロベースで書いています。
+@nissy氏制作「[みりあやんないよBot for LINE](https://github.com/sfc-icar/miria_line)」を参考に製作した研究会Slack向けbotです。コードに関してはゼロベースで書いています。
 
 ## Implementation
 #### Outline
